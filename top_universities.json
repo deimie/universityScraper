@@ -1,0 +1,510 @@
+[
+  {
+    "college_name": "California State University Channel Islands",
+    "url": "https://www.csuci.edu/"
+  },
+  {
+    "college_name": "California Baptist University",
+    "url": "http://www.calbaptist.edu/"
+  },
+  {
+    "college_name": "California Southern University",
+    "url": "http://www.calsouthern.edu/"
+  },
+  {
+    "college_name": "California Polytechnic State University, Pomona",
+    "url": "http://www.cpp.edu/"
+  },
+  {
+    "college_name": "American University",
+    "url": "http://www.american.edu/"
+  },
+  {
+    "college_name": "Auburn University",
+    "url": "http://www.auburn.edu/"
+  },
+  {
+    "college_name": "Baylor University",
+    "url": "http://www.baylor.edu/"
+  },
+  {
+    "college_name": "Boston College",
+    "url": "http://www.bc.edu/"
+  },
+  {
+    "college_name": "Boston University",
+    "url": "http://www.bu.edu/"
+  },
+  {
+    "college_name": "Brandeis University",
+    "url": "http://www.brandeis.edu/"
+  },
+  {
+    "college_name": "Brown University",
+    "url": "http://www.brown.edu/"
+  },
+  {
+    "college_name": "California Coast University",
+    "url": "http://www.calcoast.edu/"
+  },
+  {
+    "college_name": "California Institute of Technology",
+    "url": "http://www.caltech.edu/"
+  },
+  {
+    "college_name": "California Lutheran University",
+    "url": "http://www.callutheran.edu/"
+  },
+  {
+    "college_name": "California Maritime Academy",
+    "url": "http://www.csum.edu/"
+  },
+  {
+    "college_name": "California National University",
+    "url": "http://www.cnuas.edu/"
+  },
+  {
+    "college_name": "California Polytechnic State University, San Luis Obispo",
+    "url": "http://www.calpoly.edu/"
+  },
+  {
+    "college_name": "California State University, Bakersfield",
+    "url": "http://www.csub.edu/"
+  },
+  {
+    "college_name": "California State University, Chico",
+    "url": "http://www.csuchico.edu/"
+  },
+  {
+    "college_name": "California State University, Dominguez Hills",
+    "url": "http://www.csudh.edu/"
+  },
+  {
+    "college_name": "California State University, Fresno",
+    "url": "http://www.csufresno.edu/"
+  },
+  {
+    "college_name": "California State University, Fullerton",
+    "url": "http://www.fullerton.edu/"
+  },
+  {
+    "college_name": "California State University, Hayward",
+    "url": "http://www.csuhayward.edu/"
+  },
+  {
+    "college_name": "California State University, Long Beach",
+    "url": "http://www.csulb.edu/"
+  },
+  {
+    "college_name": "California State University, Los Angeles",
+    "url": "http://www.calstatela.edu/"
+  },
+  {
+    "college_name": "California State University, Monterey Bay",
+    "url": "http://www.csumb.edu/"
+  },
+  {
+    "college_name": "California State University, Northridge",
+    "url": "http://www.csun.edu/"
+  },
+  {
+    "college_name": "California State University, Sacramento",
+    "url": "http://www.csus.edu/"
+  },
+  {
+    "college_name": "California State University, San Bernardino",
+    "url": "http://www.csusb.edu/"
+  },
+  {
+    "college_name": "California State University, San Marcos",
+    "url": "http://www.csusm.edu/"
+  },
+  {
+    "college_name": "California State University, Stanislaus",
+    "url": "http://www.csustan.edu/"
+  },
+  {
+    "college_name": "California State University System",
+    "url": "http://www.calstate.edu/"
+  },
+  {
+    "college_name": "California University of Pennsylvania",
+    "url": "http://www.cup.edu/"
+  },
+  {
+    "college_name": "Carnegie Mellon University",
+    "url": "http://www.cmu.edu/"
+  },
+  {
+    "college_name": "Case Western Reserve University",
+    "url": "http://www.case.edu/"
+  },
+  {
+    "college_name": "Clemson University",
+    "url": "http://www.clemson.edu/"
+  },
+  {
+    "college_name": "Colorado School of Mines",
+    "url": "http://www.mines.edu/"
+  },
+  {
+    "college_name": "Columbia University",
+    "url": "http://www.columbia.edu/"
+  },
+  {
+    "college_name": "Cornell University",
+    "url": "http://www.cornell.edu/"
+  },
+  {
+    "college_name": "Dartmouth College",
+    "url": "http://www.dartmouth.edu/"
+  },
+  {
+    "college_name": "Drexel University",
+    "url": "http://www.drexel.edu/"
+  },
+  {
+    "college_name": "Emory University",
+    "url": "http://www.emory.edu/"
+  },
+  {
+    "college_name": "Florida International University",
+    "url": "http://www.fiu.edu/"
+  },
+  {
+    "college_name": "Florida State University",
+    "url": "http://www.fsu.edu/"
+  },
+  {
+    "college_name": "Fordham University",
+    "url": "http://www.fordham.edu/"
+  },
+  {
+    "college_name": "Georgetown University",
+    "url": "http://www.georgetown.edu/"
+  },
+  {
+    "college_name": "George Washington University",
+    "url": "http://www.gwu.edu/"
+  },
+  {
+    "college_name": "Georgia Institute of Technology",
+    "url": "http://www.gatech.edu/"
+  },
+  {
+    "college_name": "Harvard University",
+    "url": "http://www.harvard.edu/"
+  },
+  {
+    "college_name": "Howard University",
+    "url": "http://www.howard.edu/"
+  },
+  {
+    "college_name": "Johns Hopkins University",
+    "url": "http://www.jhu.edu/"
+  },
+  {
+    "college_name": "Lehigh University",
+    "url": "http://www.lehigh.edu/"
+  },
+  {
+    "college_name": "Marquette University",
+    "url": "http://www.marquette.edu/"
+  },
+  {
+    "college_name": "Massachusetts Institute of Technology",
+    "url": "http://web.mit.edu/"
+  },
+  {
+    "college_name": "Michigan State University",
+    "url": "http://www.msu.edu/"
+  },
+  {
+    "college_name": "New College of California",
+    "url": "http://www.newcollege.edu/"
+  },
+  {
+    "college_name": "New Jersey Institute of Technology",
+    "url": "http://www.njit.edu/"
+  },
+  {
+    "college_name": "New York University",
+    "url": "http://www.nyu.edu/"
+  },
+  {
+    "college_name": "North Carolina State University",
+    "url": "http://www.ncsu.edu/"
+  },
+  {
+    "college_name": "Northeastern University",
+    "url": "http://www.northeastern.edu/"
+  },
+  {
+    "college_name": "Northwestern University",
+    "url": "http://www.northwestern.edu/"
+  },
+  {
+    "college_name": "Pepperdine University",
+    "url": "http://www.pepperdine.edu/"
+  },
+  {
+    "college_name": "Pomona College",
+    "url": "http://www.pomona.edu/"
+  },
+  {
+    "college_name": "Princeton University",
+    "url": "http://www.princeton.edu/"
+  },
+  {
+    "college_name": "Rensselaer Polytechnic Institute",
+    "url": "http://www.rpi.edu/"
+  },
+  {
+    "college_name": "Rice University",
+    "url": "http://www.rice.edu/"
+  },
+  {
+    "college_name": "Rochester Institute of Technology",
+    "url": "http://www.rit.edu/"
+  },
+  {
+    "college_name": "Saint Mary's College of California",
+    "url": "http://www.stmarys-ca.edu/"
+  },
+  {
+    "college_name": "San Diego State University",
+    "url": "http://www.sdsu.edu/"
+  },
+  {
+    "college_name": "San Francisco State University",
+    "url": "http://www.sfsu.edu/"
+  },
+  {
+    "college_name": "San Jose State University",
+    "url": "http://www.sjsu.edu/"
+  },
+  {
+    "college_name": "Santa Clara University",
+    "url": "http://www.scu.edu/"
+  },
+  {
+    "college_name": "Southern Methodist University",
+    "url": "http://www.smu.edu/"
+  },
+  {
+    "college_name": "Stanford University",
+    "url": "http://www.stanford.edu/"
+  },
+  {
+    "college_name": "Stevens Institute of Technology",
+    "url": "http://www.stevens.edu/"
+  },
+  {
+    "college_name": "Syracuse University",
+    "url": "http://www.syr.edu/"
+  },
+  {
+    "college_name": "Texas Christian University",
+    "url": "http://www.tcu.edu/"
+  },
+  {
+    "college_name": "Tufts University",
+    "url": "http://www.tufts.edu/"
+  },
+  {
+    "college_name": "University of California, Berkeley",
+    "url": "http://www.berkeley.edu/"
+  },
+  {
+    "college_name": "University of California, Davis",
+    "url": "http://www.ucdavis.edu/"
+  },
+  {
+    "college_name": "University of California, Irvine",
+    "url": "http://www.uci.edu/"
+  },
+  {
+    "college_name": "University of California, Los Angeles",
+    "url": "http://www.ucla.edu/"
+  },
+  {
+    "college_name": "University of California, Merced",
+    "url": "http://www.ucmerced.edu/"
+  },
+  {
+    "college_name": "University of California, Office of the President",
+    "url": "https://www.ucop.edu/"
+  },
+  {
+    "college_name": "University of California, Riverside",
+    "url": "http://www.ucr.edu/"
+  },
+  {
+    "college_name": "University of California, San Diego",
+    "url": "http://www.ucsd.edu/"
+  },
+  {
+    "college_name": "University of California, San Francisco",
+    "url": "http://www.ucsf.edu/"
+  },
+  {
+    "college_name": "University of California, Santa Barbara",
+    "url": "http://www.ucsb.edu/"
+  },
+  {
+    "college_name": "University of California, Santa Cruz",
+    "url": "http://www.ucsc.edu/"
+  },
+  {
+    "college_name": "UC Hastings College of the Law",
+    "url": "http://www.uchastings.edu/"
+  },
+  {
+    "college_name": "University of Chicago",
+    "url": "http://www.uchicago.edu/"
+  },
+  {
+    "college_name": "University of Connecticut",
+    "url": "http://www.uconn.edu/"
+  },
+  {
+    "college_name": "University of Delaware",
+    "url": "http://www.udel.edu/"
+  },
+  {
+    "college_name": "University of Florida",
+    "url": "http://www.ufl.edu/"
+  },
+  {
+    "college_name": "University of Georgia",
+    "url": "http://www.uga.edu/"
+  },
+  {
+    "college_name": "University of Illinois Chicago",
+    "url": "http://www.uic.edu/"
+  },
+  {
+    "college_name": "University of Illinois Urbana-Champaign",
+    "url": "https://illinois.edu/"
+  },
+  {
+    "college_name": "University of Maryland, College Park",
+    "url": "http://www.umd.edu/"
+  },
+  {
+    "college_name": "University of Miami",
+    "url": "http://welcome.miami.edu/"
+  },
+  {
+    "college_name": "University of Notre Dame",
+    "url": "http://www.nd.edu/"
+  },
+  {
+    "college_name": "University of Pennsylvania",
+    "url": "http://www.upenn.edu/"
+  },
+  {
+    "college_name": "University of Pittsburgh",
+    "url": "http://www.pitt.edu/"
+  },
+  {
+    "college_name": "University of Rochester",
+    "url": "http://www.rochester.edu/"
+  },
+  {
+    "college_name": "University of Southern California",
+    "url": "http://www.usc.edu/"
+  },
+  {
+    "college_name": "University of South Florida",
+    "url": "http://www.usf.edu/"
+  },
+  {
+    "college_name": "University of Washington",
+    "url": "http://www.washington.edu/"
+  },
+  {
+    "college_name": "Vanderbilt University",
+    "url": "http://www.vanderbilt.edu/"
+  },
+  {
+    "college_name": "Villanova University",
+    "url": "http://www.villanova.edu/"
+  },
+  {
+    "college_name": "Virginia Tech",
+    "url": "https://www.vt.edu/"
+  },
+  {
+    "college_name": "Wake Forest University",
+    "url": "http://www.wfu.edu/"
+  },
+  {
+    "college_name": "Worcester Polytechnic Institute",
+    "url": "http://www.wpi.edu/"
+  },
+  {
+    "college_name": "Yale University",
+    "url": "http://www.yale.edu/"
+  },
+  {
+    "college_name": "Yeshiva University",
+    "url": "http://www.yu.edu/"
+  },
+  {
+    "college_name": "American University",
+    "url": "http://www.aubih.ba/"
+  },
+  {
+    "college_name": "Northeastern University",
+    "url": "http://www.neu.edu.cn/"
+  },
+  {
+    "college_name": "Duke University",
+    "url": "http://www.duke.edu"
+  },
+  {
+    "college_name": "Minerva University",
+    "url": "https://www.minerva.edu/"
+  },
+  {
+    "college_name": "Carrington College California-Sacramento",
+    "url": "http://www.carrington.edu"
+  },
+  {
+    "college_name": "San Bernardino Valley College",
+    "url": "http://www.valleycollege.edu"
+  },
+  {
+    "college_name": "San Diego City College",
+    "url": "http://www.sdcity.edu/"
+  },
+  {
+    "college_name": "San Diego Mesa College",
+    "url": "http://www.sdmesa.edu/"
+  },
+  {
+    "college_name": "San Diego Miramar College",
+    "url": "http://www.sdmiramar.edu/"
+  },
+  {
+    "college_name": "Academy of Art University",
+    "url": "https://www.academyart.edu/"
+  },
+  {
+    "college_name": "California Institute of the Arts",
+    "url": "https://calarts.edu/"
+  },
+  {
+    "college_name": "California State University",
+    "url": "https://csueastbay.edu"
+  },
+  {
+    "college_name": "California University of Science and Medicine",
+    "url": "https://www.cusm.edu/"
+  },
+  {
+    "college_name": "California College of the Arts",
+    "url": "https://cca.edu/"
+  }
+]

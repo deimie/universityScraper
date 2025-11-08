@@ -1,0 +1,24 @@
+--- UNIVERSITY_START ---
+NAME: California State University Channel Islands
+DOMAIN: www.csuci.edu
+REPORT_DATE: 2025-11-08 13:37:22
+--- GENERAL_INFO_START ---
+Minimum GPA: 2.0 minimum overall GPA in all transferable college courses (Higher GPA is required for the impacted BS Nursing major and may be needed for general admission if applicant pool is competitive).
+Application Deadlines: Fall Priority Filing Period: October 1 - November 30. Spring Deadlines: Varies, dependent on campus space availability (check Cal State Apply for open terms).
+Required Tests: None (CSU does not use SAT/ACT for transfer admission decisions).
+Transfer Pathways: Associate Degree for Transfer (ADT - AA-T/AS-T) is accepted and provides an admission guarantee to the CSU system (not a specific campus or impacted major).
+General Education Certification: Intersegmental General Education Transfer Curriculum (IGETC) or CSU General Education Breadth Certification is accepted to fulfill lower-division GE requirements.
+Maximum Transferable Units: A maximum of 70 semester (105 quarter) units from a community college may be transferred toward a CSUCI bachelor's degree.
+Residency Requirements: A minimum of 50 university units must be completed at CSUCI (non-community college units). This includes a minimum of 12 upper-division units in the major and a minimum of 24 upper-division units total.
+Estimated Annual Cost (Tuition + Fees): California Resident (full-time, 6.1+ units) is approximately $7,159 for the 2024-2025 academic year ($6,084 Systemwide Tuition Fee + $1,075 CSUCI Campus Fees). Nonresident students pay an additional $444 per unit.
+Transfer-Specific Scholarships: CSUCI institutional transfer-specific scholarships are N/A. Students should pursue external awards such as the Phi Theta Kappa (PTK) Scholarship.
+--- MAJOR_START ---
+Major Name: Bachelor of Science in Nursing (BS Nursing)
+Major Selectivity: Impacted
+Required Lower-Division Courses: Human Anatomy with Lab; Human Physiology with Lab; Microbiology with Lab; Chemistry (Intro or General); Statistics; Oral Communication (CSU GE A1); Written Communication (CSU GE A2); Critical Thinking (CSU GE A3).
+Minimum Grade: "C" or better in all prerequisite courses is the minimum. Historically, competitive applicants to impacted CSU Nursing programs require a higher GPA (often 3.0+ overall and a 3.0+ in science prerequisites).
+--- MAJOR_START ---
+Major Name: All Non-Impacted Majors
+Major Selectivity: Not Impacted (Admission to the University requires meeting minimum eligibility but a specific major placement is typically assured if minimum criteria are met.)
+Required Lower-Division Courses: Refer to ASSIST.org for specific major preparation. Completion of CSU "Golden Four" GE areas required: Oral Communication (A1); Written Communication (A2); Critical Thinking (A3); Mathematical Concepts/Quantitative Reasoning (B4).
+Minimum Grade: "C-" or better in all "Golden Four" GE courses. 2.0 minimum cumulative GPA in all transferable coursework.

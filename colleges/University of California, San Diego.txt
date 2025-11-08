@@ -1,0 +1,54 @@
+--- UNIVERSITY_START ---
+NAME: University of California, San Diego
+DOMAIN: www.ucsd.edu
+REPORT_DATE: 2025-11-08 13:36:49
+--- GENERAL_INFO_START ---
+**Admissions Requirements**
+Minimum GPA: 2.4 minimum for CA Residents in UC-transferable coursework, or 2.8 minimum for Nonresidents. Competitive applicants exceed the minimum. Selective majors require higher GPA in preparatory courses (e.g., Biology requires a minimum 2.5 GPA in major courses, Economics requires a minimum 2.3 GPA in major courses).
+Application Deadlines: The application filing period is October 1–November 30 for the following Fall term.
+Required Tests: SAT/ACT scores are not required. AP/IB exam scores of 3 or higher (AP) or 5 or higher (IB Higher Level) may be used for unit credit and to meet GE requirements, but will not count toward the unit limitation.
+
+**Credit Requirements**
+Minimum Transferable Units: A minimum of 60 UC-transferable semester units (90 quarter units) by the end of the spring term prior to fall admission.
+Maximum Transferable Units: A maximum of 70 semester (105 quarter) units of lower-division coursework will be granted credit. Units earned from AP/IB exams are not included in this limitation.
+General Education Certification: The Intersegmental General Education Transfer Curriculum (IGETC) is accepted for the UC system. However, IGETC certification or partial-IGETC completion may not apply toward the full completion of UC San Diego college general education requirements.
+Transfer Pathways: UC San Diego **does not participate** in the Transfer Admission Guarantee (TAG) program.
+Residency Requirements: Thirty-five of the final forty-five units completed for the bachelor's degree must be earned in residence at the college or school of the University of California in which the degree is to be earned.
+
+**Financial Requirements**
+Estimated Annual Cost (Tuition + Fees): For 2025-2026, the estimated UC Systemwide Tuition & Fees for a California Resident is approximately $15,700 (based on UCLA's UC Systemwide Tuition of $14,934 and Campus fees of $766). Nonresident Supplemental Tuition (NRST) is an additional $37,602 (UCLA example).
+Transfer-Specific Scholarships: No UCSD-specific transfer scholarships are named. Students should apply for general financial aid via the FAFSA or CADAA and research external transfer scholarships (e.g., Jack Kent Cooke).
+
+**Major Requirements**
+Major Selectivity: The following majors/departments are designated as Selective (Impaction): Biological Anthropology; Biological Sciences; Chemistry & Biochemistry; Data Science; Economics; Engineering (all); Environmental Systems; Geosciences; Marine Biology; Mathematics; Oceanic & Atmospheric Sciences; Physics; Public Health; Real Estate & Development; Urban Studies & Planning. Applicants must complete the minimum preparation coursework for these majors to be considered for admission.
+Minimum Course Grade: All major preparation screening courses must be completed with a grade of C (2.0) or better, unless otherwise noted for the major.
+
+--- MAJOR_START ---
+Major Name: Biological Anthropology
+Required Lower-Division Courses: BILD 1, BILD 2; Chem 6A, Chem 6B, Chem 6C; Choose two of: Math 10A, Math 10B, Math 10C or Math 20A, Math 20B, Math 20C; Choose one of: Math 11 or Psych 60
+Minimum Grade: C or better (2.0)
+Major Selectivity: Selective
+
+--- MAJOR_START ---
+Major Name: Biological Sciences (all majors)
+Required Lower-Division Courses: BILD 1, BILD 3; CHEM 6A, CHEM 6B, CHEM 6C, CHEM 7L; MATH 10A, MATH 10B (or MATH 20A, MATH 20B)
+Minimum Grade: C- or higher in all courses; Minimum 2.5 GPA required in these courses
+Major Selectivity: Selective
+
+--- MAJOR_START ---
+Major Name: Economics (B.A., all joint majors)
+Required Lower-Division Courses: ECON 1, ECON 3; MATH 18, MATH 20A, MATH 20B, MATH 20C, MATH 20D
+Minimum Grade: C- or higher in all courses; Minimum 2.3 GPA required in these courses
+Major Selectivity: Selective
+
+--- MAJOR_START ---
+Major Name: Computer Engineering
+Required Lower-Division Courses: MATH 18, MATH 20A, MATH 20B, MATH 20C, MATH 20D; PHYS 2A, PHYS 2B, PHYS 2C; Minimum one programming course in Java, C, or C++ (equivalent to CSE 8A, CSE 8B, or CSE 11 for articulated colleges)
+Minimum Grade: C or better (2.0)
+Major Selectivity: Selective (Engineering)
+
+--- MAJOR_START ---
+Major Name: Electrical Engineering
+Required Lower-Division Courses: MATH 18, MATH 20A, MATH 20B, MATH 20C, MATH 20D; PHYS 2A, PHYS 2B, PHYS 2C; CHEM 6A; Minimum one programming course in C or C++ (equivalent to CSE 5A for no articulation)
+Minimum Grade: C or better (2.0)
+Major Selectivity: Selective (Engineering)
