@@ -1,0 +1,93 @@
+--- UNIVERSITY_START ---
+NAME: Baylor University
+DOMAIN: www.baylor.edu
+REPORT_DATE: 2025-11-08 14:28:06
+--- GENERAL_INFO_START ---
+Minimum GPA: 2.75 minimum cumulative GPA for most majors; some selective majors require a higher GPA.
+Application Deadlines: Fall: June 1; Spring: November 15; Summer: May 15.
+Required Tests: Official SAT/ACT scores are required only if the applicant has fewer than 24 completed credit hours at the time of application submission (Test-Optional policy available).
+Transfer Pathways: Baylor accepts credit from regionally accredited institutions, determined via the Equivalent Course Tool (ECT) and Transferology; also utilizes the Texas Common Course Numbering System (TCCNS). No formal articulation agreements such as TAG, ADT, IGETC, or CSU Breadth were mentioned.
+Application Components Required: One Essay is required (part of the Common Application or available in the goBAYLOR application). Letters of Recommendation (LORs) are not generally required but may be requested by the intended academic department or major. A Portfolio or Audition is required for Music majors and may be required for other specific departments. Official transcripts from all colleges/universities attended must be submitted, reporting all attempted classes. An official final high school transcript is required if the applicant has fewer than 24 completed credit hours.
+General Education Certification: No formal GE Certification (IGETC, CSU Breadth) accepted was mentioned; credits are evaluated course-by-course using the Equivalent Course Tool (ECT).
+Maximum Transferable Units: A maximum of 70 semester hours may be transferred from a community/junior college. A maximum of 15 semester hours may be transferred after a student has matriculated (post-matriculation).
+Residency Requirements: A minimum of 60 semester hours must be earned in residence at Baylor to receive a degree, including the last 30 hours. Upper-division courses (3000- or 4000-level) must be taken in residence after a student achieves senior classification (90 earned semester hours), with an exception for the Hankamer School of Business Professional Business Core.
+--- GENERAL_INFO_START ---
+
+--- MAJOR_START ---
+Major Name: Pre-Business (Entry Major for all Business Degrees: Accounting, Entrepreneurship and Corporate Innovation, Finance, Human Resource Management, International Business, Management, Management Information Systems, Marketing, Professional Selling, Supply Chain Management)
+Major Selectivity: Selective/Highly Competitive
+Minimum GPA: 3.0 minimum cumulative GPA for admission.
+Required Lower-Division Courses: Transfer students are admitted as Pre-Business majors and must meet the following to declare a degree-granting major:
+*   Complete 1000-level and 2000-level requirements with a grade of **C or higher**.
+*   Specific courses include: Research Writing Course (e.g., ENG 1310), BUS 1201 (Intro to Business), BUS 1101 (Pre-Business New Student Experience), BUS 1350 (Software Apps), MTH 1311 (Math for Business Analysis) or MTH 1320/1321 (for Econ/Finance), ACC 2303 (Financial Accounting), ACC 2304 (Managerial Accounting), ECO 2306 (Microeconomics), ECO 2307 (Macroeconomics), QBA 2302 (Business Statistics I).
+*   Must earn a minimum 3.0 GPA and have credit for 12 Baylor hours (in-residence) before formally declaring a business major.
+--- MAJOR_START ---
+
+--- MAJOR_START ---
+Major Name: Pre-Engineering (Entry Major for all Engineering Degrees: Mechanical Engineering, Electrical and Computer Engineering, Computer Engineering, Engineering)
+Major Selectivity: Selective/Highly Competitive
+Minimum GPA: 3.0 minimum Transfer GPA.
+Required Lower-Division Courses:
+*   **Calculus 1 Readiness** (MTH 1321 equivalent) is required prior to the start of the first semester. Readiness is demonstrated by a SAT Math of 650+, ACT Math of 27+, AP Precalculus score of 4 or 5, B- or better in MTH 1320 (Pre-calculus) equivalent, or 80+ on the ALEKS Math Placement Exam.
+*   To progress into a degree-granting major: Complete EGR 1301 (Intro to Engineering) and EGR 1302 (Engineering Analysis) with a grade of **B or better**.
+*   Complete first-year mathematics courses (including at least one of MTH 1321, MTH 1322, MTH 2311, or MTH 2321) with a grade of **C or better**.
+*   **Recommended Transfer Courses:** CHE 1301 (Chemistry I), ENG 1310 (Writing), PHY 1420 (Physics I), PHY 1430 (Physics II), PSC 1305 or 1306 (Government), Foreign Language (First-level proficiency).
+--- MAJOR_START ---
+
+--- MAJOR_START ---
+Major Name: Biology
+Major Selectivity: Selective/Competitive
+Minimum GPA: 3.5 minimum cumulative GPA.
+Required Lower-Division Courses: Refer to the Equivalent Course Tool (ECT) for specific course equivalencies and the Major Academic Planner (MAP) for course sequencing. It is generally recommended to take science courses at Baylor.
+--- MAJOR_START ---
+
+--- MAJOR_START ---
+Major Name: Biochemistry
+Major Selectivity: Selective/Competitive
+Minimum GPA: 3.5 minimum cumulative GPA.
+Required Lower-Division Courses: Refer to the Equivalent Course Tool (ECT) for specific course equivalencies and the Major Academic Planner (MAP) for course sequencing.
+--- MAJOR_START ---
+
+--- MAJOR_START ---
+Major Name: Chemistry
+Major Selectivity: Selective/Competitive
+Minimum GPA: 3.5 minimum cumulative GPA.
+Required Lower-Division Courses: Refer to the Equivalent Course Tool (ECT) for specific course equivalencies and the Major Academic Planner (MAP) for course sequencing.
+--- MAJOR_START ---
+
+--- MAJOR_START ---
+Major Name: Pre-Veterinary
+Major Selectivity: Selective
+Minimum GPA: 3.0 minimum cumulative GPA.
+Required Lower-Division Courses: Refer to the Equivalent Course Tool (ECT) for specific course equivalencies and the Major Academic Planner (MAP) for course sequencing.
+--- MAJOR_START ---
+
+--- MAJOR_START ---
+Major Name: Pre-Medical or Pre-Dental (Designation, not a major)
+Major Selectivity: Selective
+Minimum GPA: 3.0 cumulative college GPA to begin with the designation.
+Required Lower-Division Courses: Requires specific prerequisite courses for medical/dental school application; core classes such as English can be taken prior to transfer, but science courses are recommended to be taken at Baylor. Refer to the Equivalent Course Tool (ECT) for course equivalencies.
+--- MAJOR_START ---
+
+--- MAJOR_START ---
+Major Name: Nursing (Louise Herrington School of Nursing - Dallas Campus)
+Major Selectivity: Highly Selective/Separate Application Required
+Minimum GPA: 2.75 overall cumulative GPA; 3.0 minimum GPA of completed prerequisite courses; 2.75 Science GPA.
+Required Lower-Division Courses: Must have 44 of the 61 prerequisite course hours completed to apply (including 2 of the 4 science prerequisites). Must successfully complete all prerequisites prior to starting the BSN program.
+Additional Component: HESI A2 Exam with minimum scores of 80 on both the Math and English Composite portions.
+--- MAJOR_START ---
+
+--- MAJOR_START ---
+Major Name: School of Music Majors (e.g., BA: Academic Studies, BA: Applied Music, BM Church Music, BM Composition, BM Performance, Music Education)
+Major Selectivity: Dual Admission (University Acceptance + School of Music Acceptance)
+Minimum GPA: General minimum 2.75 GPA.
+Additional Component: Requires a successful **Audition** for all undergraduate music majors. A separate School of Music application through Acceptd is required.
+Required Lower-Division Courses: Refer to the Equivalent Course Tool (ECT) for course equivalencies and Major Academic Planners (MAPs).
+--- MAJOR_START ---
+
+--- MAJOR_START ---
+Major Name: All Other Undergraduate Majors (e.g., Anthropology, Aviation Sciences, Communication, Computer Science, Economics, Education, English, History, Journalism, Mathematics, Philosophy, Political Science, Psychology, Sociology, Theater Arts, etc.)
+Major Selectivity: Standard Admission
+Minimum GPA: 2.75 minimum cumulative GPA.
+Required Lower-Division Courses: Requires completion of general lower-division core/elective requirements with a grade of **C or better**. Students should utilize the Equivalent Course Tool (ECT) and Major Academic Planners (MAPs) to determine which non-selective courses transfer to fulfill degree requirements.
+--- MAJOR_START ---

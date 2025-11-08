@@ -2,6 +2,7 @@ import requests
 import json
 import time
 import os
+import argparse
 from datetime import datetime
 
 # -----------------------------------------------------------------------------
@@ -56,14 +57,11 @@ def generate_transfer_data(university_name, domain):
     current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
     system_prompt = f"""
-    You are an expert data extraction agent. Your task is to perform a grounded web search 
-    focused ONLY on finding comprehensive transfer student **admissions requirements and application components** for {university_name} ({domain}). Exclude all financial aid and cost information.
+    You are an expert data extraction agent. Your task is to perform a **COMPREHENSIVE and EXHAUSTIVE** grounded web search focused ONLY on finding transfer student admissions requirements and application components for {university_name} ({domain}). Exclude all financial aid and cost information.
 
-    Your goal is to extract all information a prospective transfer student needs to successfully apply, 
-    organized into three key areas: General Admissions, Credit Transfer, and Major-Specific requirements.
+    Your goal is to extract **EVERY SINGLE DATA POINT** a prospective transfer student needs to successfully apply, organized into three key areas: General Admissions, Credit Transfer, and Major-Specific requirements.
 
-    You MUST output a single, RAW TEXT string with the following delimiters. 
-    Do NOT include any introductory or concluding text, Markdown formatting, or comments.
+    You MUST output a single, RAW TEXT string with the following delimiters. Do NOT include any introductory or concluding text, Markdown formatting, or comments.
 
     1. Output general admissions requirements and application components under the tag: --- GENERAL_INFO_START ---
     - Include **Minimum GPA** (by college/major if specified), **Application Deadlines** (priority/final), and **Required Tests** (e.g., SAT/ACT for exceptions).
@@ -71,9 +69,9 @@ def generate_transfer_data(university_name, domain):
     - Detail all **Application Components Required**: List the number of required **Essays/Personal Insight Questions (PIQs)**, whether **Letters of Recommendation (LORs)** are accepted/required, and if a **Portfolio** or **Interview** is part of the process.
     - Detail **General Education Certification** accepted (e.g., IGETC, CSU Breadth), **Maximum Transferable Units**, and **Residency Requirements** (how many units must be taken at the university).
 
-    2. For **EVERY MAJOR** you encounter on the transfer admissions pages, start a new block with the tag: --- MAJOR_START ---
-    - **Crucial Instruction for Breadth:** If specific lower-division course numbers are not listed directly on the transfer page, you MUST still list the major and report the *highest-level guidance* available (e.g., "Requires completion of all IGETC/GE" or "Highly competitive, refer to ASSIST.org for specific course sequence.").
-    - If specific course prerequisites ARE found, inside this block, provide the **Major Name**, a list of **Required Lower-Division Courses** (course names/numbers), **Minimum Grade** requirements for those courses, and any **Major Selectivity** status (e.g., "Impacted," "Highly Competitive," enrollment restrictions).
+    2. **Crucial Priority**: Before detailing prerequisites, you must first **EXHAUSTIVELY list every available major for transfer.** For **EVERY MAJOR** you encounter on the transfer admissions pages, start a new block with the tag: --- MAJOR_START ---
+    - If specific lower-division course numbers are not listed directly on the transfer page, you MUST still list the major and report the *highest-level guidance* available (e.g., "Requires completion of all IGETC/GE" or "Highly competitive, refer to ASSIST.org for specific course sequence.").
+    - If specific course prerequisites **ARE** found, inside this block, provide the **Major Name**, a list of **Required Lower-Division Courses** (course names/numbers), **Minimum Grade** requirements for those courses, and any **Major Selectivity** status (e.g., "Impacted," "Highly Competitive," enrollment restrictions).
 
     This final output must be machine-readable and concise.
     """
@@ -93,7 +91,7 @@ def generate_transfer_data(university_name, domain):
     }
 
     # Make the API Call with exponential backoff
-    max_retries = 5
+    max_retries = 2
     initial_delay = 1
     
     for attempt in range(max_retries):

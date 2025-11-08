@@ -1,0 +1,39 @@
+--- UNIVERSITY_START ---
+NAME: Boston College
+DOMAIN: www.bc.edu
+REPORT_DATE: 2025-11-08 14:28:37
+--- GENERAL_INFO_START ---
+Minimum GPA: Not explicitly published; Primary emphasis is placed on the college record, with a strong academic record generally expected.
+Minimum Transfer Units to Apply: Minimally nine credits completed prior to the admission deadline.
+Application Deadlines: Majority of students enter in the Fall semester; a class of approximately 70 students enrolls each January.
+Required Tests (SAT/ACT): Not explicitly listed as required for transfer students.
+Transfer Pathways: No formal Transfer Admission Guarantee (TAG), Associate Degree for Transfer (ADT), or IGETC/CSU Breadth certification mentioned or accepted in the grounded search results.
+Application Components Required:
+- Application: Common Application for Transfer Admission (the only application accepted).
+- Essays/PIQs: One required essay (Personal Statement focusing on reasons for transferring and objectives).
+- Letters of Recommendation (LORs): One required LOR from a professor is an application component.
+- Portfolio/Interview: Not listed as a general requirement.
+- Other Required Materials: Official College Transcript(s) from all institutions attended, Final High School Transcript, Mid-Term Grade Report.
+General Education Certification: None mentioned.
+Maximum Transferable Units: 60 credits.
+Residency Requirements: Must enroll as a full-time student and spend a minimum of four semesters at Boston College to earn a degree. Minimum Grade for Transfer Credit: C- or better.
+--- MAJOR_START ---
+Major Name: All Majors within Morrissey College of Arts and Sciences (MCAS)
+Required Lower-Division Courses: Refer to the University Catalog for specific major requirements.
+Minimum Grade: N/A
+Major Selectivity: Standard Transfer Admission.
+--- MAJOR_START ---
+Major Name: All Majors within Carroll School of Management (CSOM)
+Required Lower-Division Courses: Coursework in Calculus; Coursework in Microeconomics.
+Minimum Grade: Transfer courses must receive a grade of C- or better to be considered for credit.
+Major Selectivity: Highly competitive; placement is limited. Transfer students must complete a 3-credit course in Management Ethics at BC upon enrollment and must take at least one course (3 semester hours) each of Philosophy and Theology at BC to fulfill core requirements.
+--- MAJOR_START ---
+Major Name: All Majors within Lynch School of Education and Human Development (LSEHD)
+Required Lower-Division Courses: Refer to the University Catalog for specific major requirements.
+Minimum Grade: N/A
+Major Selectivity: Standard Transfer Admission.
+--- MAJOR_START ---
+Major Name: All Majors within Connell School of Nursing (CSON)
+Required Lower-Division Courses: Not applicable.
+Minimum Grade: Not applicable.
+Major Selectivity: Not accepting transfer applications for Fall 2026 entry. Not accepting for January entry.

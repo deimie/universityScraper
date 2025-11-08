@@ -1,0 +1,61 @@
+--- UNIVERSITY_START ---
+NAME: Columbia University
+DOMAIN: www.columbia.edu
+REPORT_DATE: 2025-11-08 14:16:36
+--- GENERAL_INFO_START ---
+Minimum GPA:
+Columbia College (CC) / Columbia Engineering (CE): Minimum 3.5 overall GPA expected. Columbia Engineering candidates are strongly encouraged to have a minimum GPA of 3.5 in their mathematics and science courses.
+School of General Studies (GS): No minimum GPA required, but an A average (3.7 - 3.8 GPA) is expected for students recently enrolled in college.
+
+Application Deadlines:
+Transfer applications are for **Fall semester only**.
+**Fall Application Deadline:** Sunday, March 1, 2026 (for the 2025-2026 cycle).
+
+Required Tests (Standardized):
+Standardized test scores (SAT/ACT) are considered and are important in the evaluation of transfer credentials, especially for students applying for sophomore standing.
+
+Transfer Pathways Accepted:
+Columbia University (CC/CE/GS) does not officially participate in programs like TAG or the general ADT/IGETC transfer certification schemes common in some state systems. The review process is holistic.
+
+Application Components Required:
+Application Platform: Coalition Application powered by Scoir (Common Application is for first-year applicants only).
+Application Fee: $85 nonrefundable application fee.
+Essays/Personal Insight Questions (PIQs): **Five** Columbia-specific questions/writing supplements are required: One list question (100 words or fewer) and four short essays (150 words or fewer each).
+Required Essays cover: intellectual development outside of class (list), personal perspective/contribution, navigating adversity, why Columbia, and why preferred area of study.
+Letters of Recommendation (LORs): Required. Typically two letters of recommendation from college professors.
+College Report: Required, completed by a college official (e.g., Dean or Registrar) to verify academic and disciplinary standing.
+Mid-Term Report: Required if applying while enrolled in courses.
+High School Transcript: Required (especially for sophomore standing applicants or those with fewer than 30 earned college credits for GS).
+Portfolio/Audition/Interview: Not generally required for CC/CE applicants; may be requested for GS applicants.
+
+Credit Transfer (CC/CE):
+Maximum Transferable Units: No more than **64 points** in Columbia College or **68 points** in Columbia Engineering will be awarded as transfer credit, including credits from standardized exams (AP/IB).
+Maximum Standardized Exam Credit: Limited to **16 points** from AP/IB exams.
+Minimum Grade for Transfer Credit:
+Columbia College (CC): Grade of **C- or better**.
+Columbia Engineering (CE): Grade of **B or better**.
+Online Courses: No courses taught entirely or partially online will be accepted for credit (face-to-face in-person instruction is required).
+
+Residency Requirements:
+Total Semesters: Transfer students must graduate within **eight total semesters**, including time completed at another institution.
+Residency Points: A minimum of **60 points** toward the degree must be earned at Columbia.
+General Education Certification: The Core Curriculum is the defining element; transfer students are rarely exempt from core courses (e.g., Literature Humanities, Contemporary Civilization, Art Humanities, Music Humanities).
+
+--- MAJOR_START ---
+Major Name: Columbia Engineering Majors (All listed majors are available for transfer)
+Major Selectivity: Highly Competitive (Admit rate typically under 10% for CC/CE transfers).
+Required Lower-Division Courses:
+Two semesters of Calculus.
+Two semesters of Physics.
+One semester of Chemistry.
+Note: Completion of an engineering track curriculum is expected.
+Minimum Grade: Strongly encouraged to have a minimum GPA of 3.5 in mathematics and science courses.
+Available Majors: Applied Mathematics, Applied Physics, Biomedical Engineering, Chemical Engineering, Civil Engineering, Computer Engineering, Computer Science, Earth and Environmental Engineering, Electrical Engineering, Industrial Engineering, Materials Science, Mechanical Engineering, Mining Engineering, Operations Research, Operations Research: Analytics, Operations Research: Engineering Management Systems.
+
+--- MAJOR_START ---
+Major Name: Columbia College Liberal Arts Majors (All majors are generally available for transfer)
+Major Selectivity: Highly Competitive (Admit rate typically under 10% for CC/CE transfers).
+Required Lower-Division Courses: Highly competitive, applicants are strongly advised to have college-level coursework equivalent to the foundation of the Core Curriculum. Students are rarely exempt from Core classes.
+The Core Curriculum includes (but is not limited to): Literature Humanities, Contemporary Civilization, University Writing, Frontiers of Science, Art Humanities, Music Humanities, and Foreign Language.
+Minimum Grade: Minimum 3.5 overall GPA expected.
+Available Majors: Columbia College students choose from **more than 80 areas of study**, including a range of interdisciplinary options. (Example areas include Anthropology, Art History, Economics, English, History, Philosophy, Political Science, Psychology, Sociology, Statistics, etc.)

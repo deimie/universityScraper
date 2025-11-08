@@ -1,0 +1,33 @@
+--- UNIVERSITY_START ---
+NAME: California Polytechnic State University, Pomona
+DOMAIN: www.cpp.edu
+REPORT_DATE: 2025-11-08 14:24:59
+--- GENERAL_INFO_START ---
+Minimum GPA: The Cal State University (CSU) system-wide minimum GPA for Upper-Division Transfer (UDT) students is 2.0. Cal Poly Pomona (CPP) is a highly impacted campus, and all majors are subject to impaction. Admission for all majors is highly competitive, and the minimum GPA required for admission is typically significantly higher than the 2.0 CSU minimum. GPA cutoffs are set annually based on the applicant pool and vary by major.
+
+Application Deadlines: The primary application filing period for Fall admission for all CSU campuses, including Cal Poly Pomona, is October 1 through November 30 of the preceding year. Spring admission is not offered for all majors.
+
+Required Tests: SAT/ACT scores are not required for transfer admission.
+
+Transfer Pathways:
+- Associate Degree for Transfer (ADT): Completion of an Associate of Arts for Transfer (AA-T) or Associate of Science for Transfer (AS-T) degree in a major deemed similar to the intended CPP major grants an automatic 0.1 GPA bump and priority admission consideration to Cal Poly Pomona.
+- Articulation Agreements: Transferable courses and major preparation are officially determined via the ASSIST.org website.
+
+Application Components Required:
+- Essays/Personal Insight Questions (PIQs): **None** are required for the standard Cal State Apply application for transfer students.
+- Letters of Recommendation (LORs): **Not required** for the standard admission process.
+- Portfolio/Interview: **Not required** for the standard admission process. May be required for specific programs (e.g., Music, Architecture, Theatre Arts) or supplemental EOP/Honors programs.
+
+General Education Certification: The CSU General Education (GE) Breadth pattern or the Intersegmental General Education Transfer Curriculum (IGETC) is accepted for GE certification. UDT applicants must complete 30 semester (45 quarter) GE units, including the "Golden Four" with a grade of C- or better. The "Golden Four" consists of: Oral Communication (Area A1), Written Communication (Area A2), Critical Thinking (Area A3), and Mathematics/Quantitative Reasoning (Area B4).
+
+Maximum Transferable Units: A maximum of 70 semester units (105 quarter units) of lower-division coursework from a California Community College may be applied toward a CSU degree.
+
+Residency Requirements: For a bachelor's degree at a CSU, a minimum of 30 semester units must be completed in residence at the campus. At least 24 of these units must be upper-division. A minimum of 12 of the upper-division units required for the major must be completed in residence at the campus.
+--- GENERAL_INFO_START ---
+--- MAJOR_START ---
+Major Name: All Majors at Cal Poly Pomona (CPP)
+Major Selectivity: All majors at Cal Poly Pomona are highly competitive and impacted for transfer students. The GPA required for admission is set annually and is typically well above the minimum 2.0 CSU eligibility requirement.
+Required Lower-Division Courses: Major preparation is a primary factor in admission. Transfer applicants must complete major-specific lower-division course prerequisites. The specific course numbers and full list of required preparation for all majors is officially published on the statewide articulation website.
+Minimum Grade: All major preparation courses are strongly recommended to be completed with a grade of C or better (C- or higher is the CSU minimum for the Golden Four, but C or better is highly recommended for all major preparation for competitive admission).
+Guidance: Refer to ASSIST.org for the official, detailed course articulation and major preparation for Cal Poly Pomona.
+--- MAJOR_START ---

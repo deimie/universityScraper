@@ -1,44 +1,5 @@
 --- UNIVERSITY_START ---
 NAME: California Baptist University
 DOMAIN: www.calbaptist.edu
-REPORT_DATE: 2025-11-08 13:37:54
---- GENERAL_INFO_START ---
-Minimum GPA: 2.0 cumulative GPA for transferable coursework (minimum overall cumulative GPA for Transfer Bronze scholarship consideration is 2.5). Minimum GPA for institutional scholarships ranges from 2.5 to 3.75+. For BSN Nursing, the minimum overall cumulative GPA is 3.0, and the minimum Pre-Nursing Science GPA is 2.8.
-Application Deadlines: Rolling Admission (no set deadline). Priority application deadline for Fall intake is typically early December (e.g., December 5 for Fall 2026).
-Required Tests: SAT/ACT/CLT are not considered for admission, but scores may be submitted for English/Math placement. For BSN Nursing, the ATI Test of Essential Academic Skills (TEAS) is required with a minimum composite score of 64%.
-Transfer Pathways: Accepts Associate Degree for Transfer (ADT), Transfer Admission Guarantee (TAG), IGETC, CSU General Education Breadth Certification, Articulation Agreements (via ASSIST), and Transferology.
-General Education Certification: Completion of an Associate's Degree with IGETC or CSU General Education Breadth Certification prior to transfer waives all general education requirements *except* for the Biblical and Theological Core (CST requirement) and English Composition (ENG 113 & ENG 123).
-Maximum Transferable Units: Maximum of 100 semester units toward a bachelor's degree. No more than 90 units may be transferred from a community college. No more than 30 upper-division units may be transferred. Maximum of 30 semester units from examinations (AP, CLEP, DANTES, IB).
-Residency Requirements: Students must complete a minimum of 36 units in residence at California Baptist University. Of the 39 upper-division units required for graduation, at least 30 upper-division units must be taken in residence.
-Estimated Annual Cost (Tuition + Fees): Traditional Undergraduate Tuition & Fees for the 2024-2025 academic year is $41,228.
-Transfer-Specific Scholarships:
-Transfer Platinum: $13,000 (3.75 GPA and above)
-Transfer Gold: $12,000 (3.5 - 3.74 GPA)
-Transfer Blue: $11,000 (3.0 - 3.49 GPA)
-Transfer Bronze: $9,000 (2.5 - 2.99 GPA)
-Other Aid: CBU Grant (need-based, FAFSA required), CBU Cal B Assistance, Minister's Kin Scholarship, Multiple Siblings Scholarship.
-
---- MAJOR_START ---
-Major Name: Nursing, Bachelor of Science in Nursing (BSN)
-Major Selectivity: Highly Competitive/Impacted. Students are admitted as Pre-Nursing majors and must apply separately to the BSN program. Meeting minimum requirements does not guarantee acceptance.
-Minimum GPA: 3.0 overall cumulative GPA; 2.8 minimum Pre-Nursing Science GPA.
-Required Lower-Division Courses: Planned completion of 5 Science and 5 non-Science prerequisite courses.
-Science Prerequisite Courses (5):
-BIO 153/L (Anatomy and Physiology I with Lab)
-BIO 163/L (Anatomy and Physiology II with Lab)
-BIO 205/L (Basic Medical Microbiology with Lab)
-CHE 102 (Introduction to General Chemistry) (or CHE 112/L Intro to Organic & Biochemistry with Lab, as listed for Science GPA calculation)
-Non-Science Prerequisite Courses (5 major areas/sequences): English Composition (ENG 113 & 123 sequence), Communication (Public Speaking), Psychology (General Psychology & Lifespan Development), Sociology (Intro to Sociology), and Mathematics (Intermediate Algebra or College Algebra/Stats).
-Minimum Grade: C or higher for all prerequisite courses.
-
---- MAJOR_START ---
-Major Name: Civil Engineering, Bachelor of Science (BSCE) (and other Engineering programs: BSE, BSME, BSECE)
-Major Selectivity: No specific status given (e.g., "Impacted"), but the major requires a heavy course load (17-18 units per semester) and a full sequence of specific lower-division math, science, and engineering courses. A 3-year accelerated program is available for select students with high AP scores.
-Minimum GPA: Not explicitly listed for major admission, but CBU's minimum transfer GPA is 2.0. Transfer coursework must be C- or better.
-Required Lower-Division Courses: The curriculum includes lower-division core engineering requirements (14-19 units) and math and science requirements (32 units). Junior/senior transfers typically take a substitution course (EGR 301) for the first-year seminar (EGR 101). The lower-division coursework for an engineering program generally includes:
-Calculus I, II, III
-Physics (Calculus-based)
-Chemistry
-Computer Programming
-EGR 101 (Introduction to Engineering) *or* EGR 301 for upper-division transfers.
-Minimum Grade: C- or better will be accepted in transfer.
+REPORT_DATE: 2025-11-08 14:23:39
+STATUS: FAILED - 500 Server Error: Internal Server Error for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-09-2025:generateContent?key=AIzaSyDyWeyzxV8TcuXyKt7h1kMyc4LwPTOw1co

@@ -1,19 +1,35 @@
 --- UNIVERSITY_START ---
 NAME: California Southern University
 DOMAIN: www.calsouthern.edu
-REPORT_DATE: 2025-11-08 13:38:54
+REPORT_DATE: 2025-11-08 14:24:39
 --- GENERAL_INFO_START ---
-Minimum GPA: Not found on www.calsouthern.edu
-Application Deadlines: Not found on www.calsouthern.edu
-Required Tests: Not found on www.calsouthern.edu
-Transfer Pathways: Not found on www.calsouthern.edu
-General Education Certification: Not found on www.calsouthern.edu
-Maximum Transferable Units: Not found on www.calsouthern.edu
-Residency Requirements: Not found on www.calsouthern.edu
-Estimated Annual Cost (Tuition + Fees): Not found on www.calsouthern.edu
-Transfer-Specific Scholarships: Not found on www.calsouthern.edu
+**All information for California Southern University (www.calsouthern.edu) is unavailable from the grounded search results.**
+
+Minimum GPA: UNAVAILABLE
+Application Deadlines: UNAVAILABLE (Rolling/Priority/Final)
+Required Tests: UNAVAILABLE (SAT/ACT/Other)
+Transfer Pathways Accepted: UNAVAILABLE (TAG, ADT, Articulation)
+Application Components Required: UNAVAILABLE (Essays/PIQs, LORs, Portfolio, Interview)
+General Education Certification: UNAVAILABLE (IGETC, CSU Breadth)
+Maximum Transferable Units: UNAVAILABLE
+Residency Requirements (Units at CSU): UNAVAILABLE
+
 --- MAJOR_START ---
-Major Name: Not found on www.calsouthern.edu
-Required Lower-Division Courses: Not found on www.calsouthern.edu
-Minimum Grade: Not found on www.calsouthern.edu
-Major Selectivity: Not found on www.calsouthern.edu
+**All major names and major-specific requirements for California Southern University (www.calsouthern.edu) are unavailable from the grounded search results.**
+
+Major Name: UNAVAILABLE
+Required Lower-Division Courses: UNAVAILABLE
+Minimum Grade: UNAVAILABLE
+Major Selectivity: UNAVAILABLE
+
+--- MAJOR_START ---
+Major Name: UNAVAILABLE
+Required Lower-Division Courses: UNAVAILABLE
+Minimum Grade: UNAVAILABLE
+Major Selectivity: UNAVAILABLE
+
+--- MAJOR_START ---
+Major Name: UNAVAILABLE
+Required Lower-Division Courses: UNAVAILABLE
+Minimum Grade: UNAVAILABLE
+Major Selectivity: UNAVAILABLE

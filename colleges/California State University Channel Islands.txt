@@ -1,24 +1,194 @@
 --- UNIVERSITY_START ---
 NAME: California State University Channel Islands
 DOMAIN: www.csuci.edu
-REPORT_DATE: 2025-11-08 13:37:22
+REPORT_DATE: 2025-11-08 14:23:07
 --- GENERAL_INFO_START ---
-Minimum GPA: 2.0 minimum overall GPA in all transferable college courses (Higher GPA is required for the impacted BS Nursing major and may be needed for general admission if applicant pool is competitive).
-Application Deadlines: Fall Priority Filing Period: October 1 - November 30. Spring Deadlines: Varies, dependent on campus space availability (check Cal State Apply for open terms).
-Required Tests: None (CSU does not use SAT/ACT for transfer admission decisions).
-Transfer Pathways: Associate Degree for Transfer (ADT - AA-T/AS-T) is accepted and provides an admission guarantee to the CSU system (not a specific campus or impacted major).
-General Education Certification: Intersegmental General Education Transfer Curriculum (IGETC) or CSU General Education Breadth Certification is accepted to fulfill lower-division GE requirements.
-Maximum Transferable Units: A maximum of 70 semester (105 quarter) units from a community college may be transferred toward a CSUCI bachelor's degree.
-Residency Requirements: A minimum of 50 university units must be completed at CSUCI (non-community college units). This includes a minimum of 12 upper-division units in the major and a minimum of 24 upper-division units total.
-Estimated Annual Cost (Tuition + Fees): California Resident (full-time, 6.1+ units) is approximately $7,159 for the 2024-2025 academic year ($6,084 Systemwide Tuition Fee + $1,075 CSUCI Campus Fees). Nonresident students pay an additional $444 per unit.
-Transfer-Specific Scholarships: CSUCI institutional transfer-specific scholarships are N/A. Students should pursue external awards such as the Phi Theta Kappa (PTK) Scholarship.
+Minimum GPA: 2.00 overall college GPA (California residents for Upper and Lower Division Transfer); 2.25 overall GPA for selection into the Through-in-Two Program.
+Application Deadlines: FALL 2026: Nursing majors - December 1, 2025. All other non-impacted majors - March 2, 2026 (Priority Deadline). SPRING 2026: All non-impacted programs - December 5, 2025 (Extended Deadline). Nursing not available in Spring.
+Required Tests: SAT/ACT - Not Applicable (Discontinued for undergraduate admissions). NURSING ONLY - ATI Test of Essential Academic Skills (TEAS) with a minimum National Percentile overall rank of proficient (>58.7%).
+Transfer Pathways: Associate Degree for Transfer (ADT) (AA-T/AS-T) accepted; guarantees a pathway to graduation in 60 units *at CI* if major is similar.
+Application Components Required: Essays/Personal Insight Questions (PIQs) - None (not typically required for CSU transfer). Letters of Recommendation (LORs) - None (not typically required for general CSU transfer). Portfolio/Interview - None (for general admission). NURSING ONLY - Supplemental NursingCAS application is required, and a supplemental criteria point system is used for admission, which considers health-related experience (e.g., LVN, CNA, EMT), military experience, second language proficiency, and high school health academy participation.
+General Education Certification: IGETC or CSU GE-Breadth Certification is accepted. Upper-Division Transfers (60+ units) must have the "Golden Four" completed with a grade of C- or better: A1 (Oral Communication), A2 (Written Communication), A3 (Critical Thinking), and B4 (Mathematics/Quantitative Reasoning).
+Maximum Transferable Units: Upper-Division Transfer students must have completed a minimum of 60 semester transferable units (90 quarter units). No explicit maximum transferable units found, but ADT students are guaranteed a 60-unit graduation path.
+Residency Requirements: Students in the Through-in-Two Program must complete a minimum of 30 units each academic year (including summer) to ensure graduation in two years; residency requirements must be fulfilled by graduation.
+--- GENERAL_INFO_START ---
 --- MAJOR_START ---
-Major Name: Bachelor of Science in Nursing (BS Nursing)
-Major Selectivity: Impacted
-Required Lower-Division Courses: Human Anatomy with Lab; Human Physiology with Lab; Microbiology with Lab; Chemistry (Intro or General); Statistics; Oral Communication (CSU GE A1); Written Communication (CSU GE A2); Critical Thinking (CSU GE A3).
-Minimum Grade: "C" or better in all prerequisite courses is the minimum. Historically, competitive applicants to impacted CSU Nursing programs require a higher GPA (often 3.0+ overall and a 3.0+ in science prerequisites).
+Major Name: BS Nursing (Track I Pre-licensure)
+Major Selectivity: Impacted (Additional admission criteria and supplemental application required).
+Required Lower-Division Courses: BIOL 210 (Human Anatomy and Physiology I), BIOL 211 (Human Anatomy and Physiology II), BIOL 217 (Medical Microbiology), CHEM 110 (Chemistry of Life) OR CHEM 121 (General Chemistry I), COMM 101 (Public Speaking), ENGL 105 (Composition and Rhetoric I), GE Area A3 (Critical Thinking), Stats-Quantitative Methods (GE Area B4).
+Minimum Grade: Grade of C or better for all prerequisite courses. Minimum overall cumulative GPA of 2.5 is acceptable for application.
 --- MAJOR_START ---
-Major Name: All Non-Impacted Majors
-Major Selectivity: Not Impacted (Admission to the University requires meeting minimum eligibility but a specific major placement is typically assured if minimum criteria are met.)
-Required Lower-Division Courses: Refer to ASSIST.org for specific major preparation. Completion of CSU "Golden Four" GE areas required: Oral Communication (A1); Written Communication (A2); Critical Thinking (A3); Mathematical Concepts/Quantitative Reasoning (B4).
-Minimum Grade: "C-" or better in all "Golden Four" GE courses. 2.0 minimum cumulative GPA in all transferable coursework.
+--- MAJOR_START ---
+Major Name: BA Anthropology
+Major Selectivity: Non-impacted. Transfer Model Curriculum (TMC) pathway available (ADT).
+Required Lower-Division Courses: Completion of lower-division major requirements is highly recommended/expected. Refer to ASSIST.org for specific course sequence and articulation agreements.
+Minimum Grade: Completion of "Golden Four" GE courses with a C- or better.
+--- MAJOR_START ---
+--- MAJOR_START ---
+Major Name: BS Applied Physics
+Major Selectivity: Non-impacted.
+Required Lower-Division Courses: Completion of lower-division major requirements is highly recommended/expected. Refer to ASSIST.org for specific course sequence and articulation agreements.
+Minimum Grade: Completion of "Golden Four" GE courses with a C- or better.
+--- MAJOR_START ---
+--- MAJOR_START ---
+Major Name: BA Art (Art History Emphasis, Art Studio Emphasis)
+Major Selectivity: Non-impacted. Transfer Model Curriculum (TMC) pathway available (ADT).
+Required Lower-Division Courses: Completion of lower-division major requirements is highly recommended/expected. Refer to ASSIST.org for specific course sequence and articulation agreements.
+Minimum Grade: Completion of "Golden Four" GE courses with a C- or better.
+--- MAJOR_START ---
+--- MAJOR_START ---
+Major Name: BA/BS Biology
+Major Selectivity: Non-impacted (listed as available for Freshmen and may have ADT pathway).
+Required Lower-Division Courses: Completion of lower-division major requirements is highly recommended/expected. Refer to ASSIST.org for specific course sequence and articulation agreements.
+Minimum Grade: Completion of "Golden Four" GE courses with a C- or better.
+--- MAJOR_START ---
+--- MAJOR_START ---
+Major Name: BS Business (Finance Option, Management Option, Marketing Option)
+Major Selectivity: Non-impacted (listed as available for Freshmen and Transfers). Transfer Model Curriculum (TMC) pathway available (ADT).
+Required Lower-Division Courses: Completion of lower-division major requirements is highly recommended/expected. Refer to ASSIST.org for specific course sequence and articulation agreements.
+Minimum Grade: Completion of "Golden Four" GE courses with a C- or better.
+--- MAJOR_START ---
+--- MAJOR_START ---
+Major Name: BA/BS Chemistry (Biochemistry Option)
+Major Selectivity: Non-impacted. Transfer Model Curriculum (TMC) pathway available (ADT).
+Required Lower-Division Courses: Completion of lower-division major requirements is highly recommended/expected. Refer to ASSIST.org for specific course sequence and articulation agreements.
+Minimum Grade: Completion of "Golden Four" GE courses with a C- or better.
+--- MAJOR_START ---
+--- MAJOR_START ---
+Major Name: BA Chicana/o Studies
+Major Selectivity: Non-impacted. Transfer Model Curriculum (TMC) pathway available (ADT).
+Required Lower-Division Courses: Completion of lower-division major requirements is highly recommended/expected. Refer to ASSIST.org for specific course sequence and articulation agreements.
+Minimum Grade: Completion of "Golden Four" GE courses with a C- or better.
+--- MAJOR_START ---
+--- MAJOR_START ---
+Major Name: BA Communication (Environmental Communication Emphasis, Health Communication Emphasis, Organizational Communication Emphasis)
+Major Selectivity: Non-impacted. Transfer Model Curriculum (TMC) pathway available (ADT).
+Required Lower-Division Courses: Completion of lower-division major requirements is highly recommended/expected. Refer to ASSIST.org for specific course sequence and articulation agreements.
+Minimum Grade: Completion of "Golden Four" GE courses with a C- or better.
+--- MAJOR_START ---
+--- MAJOR_START ---
+Major Name: BS Computer Science
+Major Selectivity: Non-impacted.
+Required Lower-Division Courses: Completion of lower-division major requirements is highly recommended/expected. Refer to ASSIST.org for specific course sequence and articulation agreements.
+Minimum Grade: Completion of "Golden Four" GE courses with a C- or better.
+--- MAJOR_START ---
+--- MAJOR_START ---
+Major Name: BA Dance Studies
+Major Selectivity: Non-impacted.
+Required Lower-Division Courses: Completion of lower-division major requirements is highly recommended/expected. Refer to ASSIST.org for specific course sequence and articulation agreements.
+Minimum Grade: Completion of "Golden Four" GE courses with a C- or better.
+--- MAJOR_START ---
+--- MAJOR_START ---
+Major Name: BA Early Childhood Studies
+Major Selectivity: Non-impacted. Transfer Model Curriculum (TMC) pathway available (ADT).
+Required Lower-Division Courses: Completion of lower-division major requirements is highly recommended/expected. Refer to ASSIST.org for specific course sequence and articulation agreements.
+Minimum Grade: Completion of "Golden Four" GE courses with a C- or better.
+--- MAJOR_START ---
+--- MAJOR_START ---
+Major Name: BA Economics
+Major Selectivity: Non-impacted. Transfer Model Curriculum (TMC) pathway available (ADT).
+Required Lower-Division Courses: Completion of lower-division major requirements is highly recommended/expected. Refer to ASSIST.org for specific course sequence and articulation agreements.
+Minimum Grade: Completion of "Golden Four" GE courses with a C- or better.
+--- MAJOR_START ---
+--- MAJOR_START ---
+Major Name: BA English (Creative Writing Option, English Education Option, Multicultural Literature Option)
+Major Selectivity: Non-impacted. Transfer Model Curriculum (TMC) pathway available (ADT).
+Required Lower-Division Courses: Completion of lower-division major requirements is highly recommended/expected. Refer to ASSIST.org for specific course sequence and articulation agreements.
+Minimum Grade: Completion of "Golden Four" GE courses with a C- or better.
+--- MAJOR_START ---
+--- MAJOR_START ---
+Major Name: BS Environmental Science & Resource Management (Earth Systems Emphasis, Marine and Coastal Systems Emphasis)
+Major Selectivity: Non-impacted. Transfer Model Curriculum (TMC) pathway available (ADT).
+Required Lower-Division Courses: Completion of lower-division major requirements is highly recommended/expected. Refer to ASSIST.org for specific course sequence and articulation agreements.
+Minimum Grade: Completion of "Golden Four" GE courses with a C- or better.
+--- MAJOR_START ---
+--- MAJOR_START ---
+Major Name: BA Global Studies
+Major Selectivity: Non-impacted. Transfer Model Curriculum (TMC) pathway available (ADT).
+Required Lower-Division Courses: Completion of lower-division major requirements is highly recommended/expected. Refer to ASSIST.org for specific course sequence and articulation agreements.
+Minimum Grade: Completion of "Golden Four" GE courses with a C- or better.
+--- MAJOR_START ---
+--- MAJOR_START ---
+Major Name: BS Health Science
+Major Selectivity: Non-impacted (listed as available for Freshmen and Transfers). Transfer Model Curriculum (TMC) pathway available (ADT).
+Required Lower-Division Courses: Completion of lower-division major requirements is highly recommended/expected. Refer to ASSIST.org for specific course sequence and articulation agreements.
+Minimum Grade: Completion of "Golden Four" GE courses with a C- or better.
+--- MAJOR_START ---
+--- MAJOR_START ---
+Major Name: BA History
+Major Selectivity: Non-impacted. Transfer Model Curriculum (TMC) pathway available (ADT).
+Required Lower-Division Courses: Completion of lower-division major requirements is highly recommended/expected. Refer to ASSIST.org for specific course sequence and articulation agreements.
+Minimum Grade: Completion of "Golden Four" GE courses with a C- or better.
+--- MAJOR_START ---
+--- MAJOR_START ---
+Major Name: BS Information Technology
+Major Selectivity: Non-impacted.
+Required Lower-Division Courses: Completion of lower-division major requirements is highly recommended/expected. Refer to ASSIST.org for specific course sequence and articulation agreements.
+Minimum Grade: Completion of "Golden Four" GE courses with a C- or better.
+--- MAJOR_START ---
+--- MAJOR_START ---
+Major Name: BA Liberal Studies (Concentrated Studies Emphasis, Integrated Teaching Credential Emphasis, Teaching & Learning Emphasis)
+Major Selectivity: Non-impacted (listed as available for Freshmen and Transfers). Transfer Model Curriculum (TMC) pathway available (ADT).
+Required Lower-Division Courses: Completion of lower-division major requirements is highly recommended/expected. Refer to ASSIST.org for specific course sequence and articulation agreements.
+Minimum Grade: Completion of "Golden Four" GE courses with a C- or better.
+--- MAJOR_START ---
+--- MAJOR_START ---
+Major Name: BS Mathematics (Applied Mathematics Emphasis, Mathematics Education Emphasis, Pure Mathematics Emphasis, Statistics Emphasis)
+Major Selectivity: Non-impacted. Transfer Model Curriculum (TMC) pathway available (ADT).
+Required Lower-Division Courses: Completion of lower-division major requirements is highly recommended/expected. Refer to ASSIST.org for specific course sequence and articulation agreements.
+Minimum Grade: Completion of "Golden Four" GE courses with a C- or better.
+--- MAJOR_START ---
+--- MAJOR_START ---
+Major Name: BS Mechatronics Engineering
+Major Selectivity: Non-impacted (listed as available for Freshmen).
+Required Lower-Division Courses: Completion of lower-division major requirements is highly recommended/expected. Refer to ASSIST.org for specific course sequence and articulation agreements.
+Minimum Grade: Completion of "Golden Four" GE courses with a C- or better.
+--- MAJOR_START ---
+--- MAJOR_START ---
+Major Name: BA Music
+Major Selectivity: Non-impacted.
+Required Lower-Division Courses: Completion of lower-division major requirements is highly recommended/expected. Refer to ASSIST.org for specific course sequence and articulation agreements.
+Minimum Grade: Completion of "Golden Four" GE courses with a C- or better.
+--- MAJOR_START ---
+--- MAJOR_START ---
+Major Name: BA Performing Arts
+Major Selectivity: Non-impacted.
+Required Lower-Division Courses: Completion of lower-division major requirements is highly recommended/expected. Refer to ASSIST.org for specific course sequence and articulation agreements.
+Minimum Grade: Completion of "Golden Four" GE courses with a C- or better.
+--- MAJOR_START ---
+--- MAJOR_START ---
+Major Name: BA Political Science
+Major Selectivity: Non-impacted. Transfer Model Curriculum (TMC) pathway available (ADT).
+Required Lower-Division Courses: Completion of lower-division major requirements is highly recommended/expected. Refer to ASSIST.org for specific course sequence and articulation agreements.
+Minimum Grade: Completion of "Golden Four" GE courses with a C- or better.
+--- MAJOR_START ---
+--- MAJOR_START ---
+Major Name: BA Psychology
+Major Selectivity: Non-impacted (listed as available for Freshmen and Transfers). Transfer Model Curriculum (TMC) pathway available (ADT).
+Required Lower-Division Courses: Completion of lower-division major requirements is highly recommended/expected. Refer to ASSIST.org for specific course sequence and articulation agreements.
+Minimum Grade: Completion of "Golden Four" GE courses with a C- or better.
+--- MAJOR_START ---
+--- MAJOR_START ---
+Major Name: BS Public Administration
+Major Selectivity: Non-impacted.
+Required Lower-Division Courses: Completion of lower-division major requirements is highly recommended/expected. Refer to ASSIST.org for specific course sequence and articulation agreements.
+Minimum Grade: Completion of "Golden Four" GE courses with a C- or better.
+--- MAJOR_START ---
+--- MAJOR_START ---
+Major Name: BA Sociology
+Major Selectivity: Non-impacted. Transfer Model Curriculum (TMC) pathway available (ADT).
+Required Lower-Division Courses: Completion of lower-division major requirements is highly recommended/expected. Refer to ASSIST.org for specific course sequence and articulation agreements.
+Minimum Grade: Completion of "Golden Four" GE courses with a C- or better.
+--- MAJOR_START ---
+--- MAJOR_START ---
+Major Name: BA Spanish
+Major Selectivity: Non-impacted. Transfer Model Curriculum (TMC) pathway available (ADT).
+Required Lower-Division Courses: Completion of lower-division major requirements is highly recommended/expected. Refer to ASSIST.org for specific course sequence and articulation agreements.
+Minimum Grade: Completion of "Golden Four" GE courses with a C- or better.
+--- MAJOR_START ---
+--- MAJOR_START ---
+Major Name: BA Theatre and Performance Studies
+Major Selectivity: Non-impacted.
+Required Lower-Division Courses: Completion of lower-division major requirements is highly recommended/expected. Refer to ASSIST.org for specific course sequence and articulation agreements.
+Minimum Grade: Completion of "Golden Four" GE courses with a C- or better.
+--- MAJOR_START ---

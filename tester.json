@@ -1,8 +1,4 @@
 [
-{
-    "college_name": "University of California, San Diego",
-    "url": "http://www.ucsd.edu/"
-  },
   {
     "college_name": "California State University Channel Islands",
     "url": "https://www.csuci.edu/"
@@ -14,5 +10,25 @@
   {
     "college_name": "California Southern University",
     "url": "http://www.calsouthern.edu/"
+  },
+  {
+    "college_name": "California Polytechnic State University, Pomona",
+    "url": "http://www.cpp.edu/"
+  },
+  {
+    "college_name": "American University",
+    "url": "http://www.american.edu/"
+  },
+  {
+    "college_name": "Auburn University",
+    "url": "http://www.auburn.edu/"
+  },
+  {
+    "college_name": "Baylor University",
+    "url": "http://www.baylor.edu/"
+  },
+  {
+    "college_name": "Boston College",
+    "url": "http://www.bc.edu/"
   }
 ]

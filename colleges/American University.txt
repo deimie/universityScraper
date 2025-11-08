@@ -1,0 +1,118 @@
+--- UNIVERSITY_START ---
+NAME: American University
+DOMAIN: www.american.edu
+REPORT_DATE: 2025-11-08 14:26:00
+--- GENERAL_INFO_START ---
+Minimum GPA: Competitive applicants have a GPA of at least 2.5/4.0.
+Minimum GPA by School: Kogod School of Business: 2.75; School of Education: 2.70; School of International Service (SIS): 3.00; School of Communication: 2.50; School of Public Affairs (SPA): 2.50.
+Application Deadlines: Fall Semester Priority Deadline: May 1; Spring Semester Priority Deadline: October 1. Applications are reviewed on a rolling basis after the priority deadline.
+Minimum Transferable Units: No minimum requirement to apply; however, High School Transcripts are only required if the applicant will have completed less than 24 semester hours of college coursework.
+Required Tests: Standardized tests (SAT/ACT) are not required for transfer applicants. English Proficiency (TOEFL/IELTS/PTE Academic/qualifying SAT/ACT scores) is required for international transfer applicants whose native language is not English.
+Transfer Pathways: Guaranteed Admissions Partnerships exist with seven community colleges: Howard Community College (MD), Green River Community College (WA), Daytona State College (FL), Miami-Dade College (FL), Montgomery College (MD), Northern Virginia Community College (VA), and Tidewater Community College (VA). Requires a Letter of Intent by October 1 for fall consideration.
+General Education Certification: IGETC/CSU Breadth/TAG are not specified as pathways. Transfer students must satisfy AU Core requirements, including Quantitative Literacy I & II, Written Communication and Information Literacy I & II, Habits of Mind, Diversity and Equity, and the Capstone. Students transferring 60+ credits must complete only one Habits of Mind course.
+Application Components Required: Common Application, Application Essay (one required via Common Application), $75 Application Fee/Fee Waiver, Official Transcripts from *all* colleges/universities attended, Official High School Transcript (if under 24 semester hours completed), Statement describing activities if out of school for one semester or longer, College Report (completed by a college official), Letter(s) of Recommendation are not required unless specifically requested by your intended academic department or major.
+Maximum Transferable Units: Maximum of 60 semester credit hours from an approved two- or four-year institution. A cumulative maximum of 60 credit hours from all sources (college coursework, AP, IB, CLEP, military credit).
+Minimum Transfer Grade: Grade of "C" or above in the transfer course.
+Residency Requirements: At least 45 of the last 60 credit hours must be completed in residence at American University.
+
+--- MAJOR_START ---
+Major Name: Accounting BS (Kogod School of Business)
+Required Lower-Division Courses: Refer to AU Transfer Articulation Database for course equivalencies. General guidance suggests any lower-division business/quantitative courses (e.g., introductory accounting, math) be completed with a grade of C or better.
+Minimum Grade: C or better for all major requirements.
+Major Selectivity: Minimum 2.75 GPA required for Kogod School of Business admission.
+
+--- MAJOR_START ---
+Major Name: Business Administration BSBA (Kogod School of Business)
+Required Lower-Division Courses: Refer to AU Transfer Articulation Database for course equivalencies. Transfer students must complete at least 18 upper-level credit hours toward their major in residence, and all major requirements must have a grade of C or better.
+Minimum Grade: C or better for all major requirements.
+Major Selectivity: Minimum 2.75 GPA required for Kogod School of Business admission.
+
+--- MAJOR_START ---
+Major Name: Business and Entertainment BS (Kogod School of Business)
+Required Lower-Division Courses: Refer to AU Transfer Articulation Database for course equivalencies.
+Minimum Grade: C or better for all major requirements.
+Major Selectivity: Minimum 2.75 GPA required for Kogod School of Business admission.
+
+--- MAJOR_START ---
+Major Name: Business, Language, and Culture BS (Kogod School of Business)
+Required Lower-Division Courses: Refer to AU Transfer Articulation Database for course equivalencies.
+Minimum Grade: C or better for all major requirements.
+Major Selectivity: Minimum 2.75 GPA required for Kogod School of Business admission.
+
+--- MAJOR_START ---
+Major Name: Finance BS (Kogod School of Business)
+Required Lower-Division Courses: Refer to AU Transfer Articulation Database for course equivalencies.
+Minimum Grade: C or better for all major requirements.
+Major Selectivity: Minimum 2.75 GPA required for Kogod School of Business admission.
+
+--- MAJOR_START ---
+Major Name: Computer Science BS (College of Arts & Sciences)
+Required Lower-Division Courses: Equivalents of foundational AU courses are highly recommended: Calculus I (MATH-221), Calculus II (MATH-222), Introduction to Computer Science I (CSC-148), Introduction to Computer Science II (CSC-208).
+Minimum Grade: C or better for all major requirements.
+Major Selectivity: None explicitly stated beyond general competitive admission.
+
+--- MAJOR_START ---
+Major Name: Data Science BS (College of Arts & Sciences)
+Required Lower-Division Courses: Equivalents of foundational AU math/programming courses are highly recommended (e.g., Calculus, Statistics, Introductory Programming).
+Minimum Grade: C or better for all major requirements.
+Major Selectivity: None explicitly stated beyond general competitive admission.
+
+--- MAJOR_START ---
+Major Name: All Other College of Arts & Sciences Majors (Includes: African American & Diaspora Studies BA, American Studies BA, Anthropology BA, Arab World Studies BA, Art History BA, Asia, Pacific & Diaspora Studies BA, Audio Production BA, Audio Technology BS, Biochemistry BS, Biology BS, Chemistry BS, Dance BA, Economics BA/BS, Environmental Science BS, Environmental Studies BA, Graphic Design & Visual Communication BA, Health Promotion BS, History BA, Literature BA, Mathematics BS/Applied Mathematics BS/Mathematics & Economics BS, Music BA, Musical Theatre BA, Neuroscience BS, Philosophy BA, Photography BA, Physics BA/BS, Popular Music Performance & Enterprise BA, Psychology BA, Public Health BA/BS, Religious Studies BA, Sociology BA, Statistics BS, Studio Art BA, Theatre BA, Women's, Gender, Sexuality Studies BA)
+Required Lower-Division Courses: No specific prerequisite courses listed for admission. Transfer applicants should complete foundational coursework applicable to their intended major. Students are required to submit course syllabi for faculty review to determine course equivalency toward major requirements.
+Minimum Grade: C or better for all major requirements.
+Major Selectivity: None explicitly stated beyond general competitive admission.
+
+--- MAJOR_START ---
+Major Name: Communication Studies BA (School of Communication)
+Required Lower-Division Courses: Refer to AU Transfer Articulation Database for equivalencies.
+Minimum Grade: C or better for all major requirements.
+Major Selectivity: Minimum 2.50 GPA required for School of Communication admission.
+
+--- MAJOR_START ---
+Major Name: Film and Media Arts BA (School of Communication)
+Required Lower-Division Courses: Refer to AU Transfer Articulation Database for equivalencies.
+Minimum Grade: C or better for all major requirements.
+Major Selectivity: Minimum 2.50 GPA required for School of Communication admission.
+
+--- MAJOR_START ---
+Major Name: Foreign Language and Communication Media BA (School of Communication)
+Required Lower-Division Courses: Refer to AU Transfer Articulation Database for equivalencies.
+Minimum Grade: C or better for all major requirements.
+Major Selectivity: Minimum 2.50 GPA required for School of Communication admission.
+
+--- MAJOR_START ---
+Major Name: Journalism BA (School of Communication)
+Required Lower-Division Courses: Refer to AU Transfer Articulation Database for equivalencies.
+Minimum Grade: C or better for all major requirements.
+Major Selectivity: Minimum 2.50 GPA required for School of Communication admission.
+
+--- MAJOR_START ---
+Major Name: Public Relations and Strategic Communication BA (School of Communication)
+Required Lower-Division Courses: Refer to AU Transfer Articulation Database for equivalencies.
+Minimum Grade: C or better for all major requirements.
+Major Selectivity: Minimum 2.50 GPA required for School of Communication admission.
+
+--- MAJOR_START ---
+Major Name: International Studies BA (School of International Service)
+Required Lower-Division Courses: No specific prerequisite courses listed for admission. It is recommended to complete introductory courses in social sciences and relevant regional studies.
+Minimum Grade: C or better for all major requirements.
+Major Selectivity: Highly Competitive; Minimum 3.00 GPA required for School of International Service admission.
+
+--- MAJOR_START ---
+Major Name: All School of Public Affairs Majors (Includes: Communication, Legal Institutions, Economics, and Government (CLEG) BA, Data Sciences for Justice, Law, & Criminology BS, Data Sciences for Political Science BS, Justice and Law BA, Legal Studies BA, Political Science BA)
+Required Lower-Division Courses: No specific prerequisite courses listed for admission. Recommended to complete introductory courses in political science, economics, and mathematics/statistics.
+Minimum Grade: C or better for all major requirements.
+Major Selectivity: Minimum 2.50 GPA required for School of Public Affairs admission.
+
+--- MAJOR_START ---
+Major Name: Elementary Education BA (School of Education)
+Required Lower-Division Courses: No specific prerequisite courses listed for admission. Recommended to complete general education and foundational liberal arts courses.
+Minimum Grade: C or better for all major requirements.
+Major Selectivity: Minimum 2.70 GPA required for School of Education admission.
+
+--- MAJOR_START ---
+Major Name: Secondary Education BA (School of Education)
+Required Lower-Division Courses: No specific prerequisite courses listed for admission. Recommended to complete general education and foundational liberal arts courses.
+Minimum Grade: C or better for all major requirements.
+Major Selectivity: Minimum 2.70 GPA required for School of Education admission.
