@@ -11,7 +11,7 @@ from datetime import datetime
 
 # IMPORTANT: If running this outside a platform like Canvas, replace the empty 
 # string with your actual Gemini API key.
-API_KEY = "AIzaSyDyWeyzxV8TcuXyKt7h1kMyc4LwPTOw1co" 
+API_KEY = "" 
 
 # The model and endpoint to use for grounded generation
 API_URL = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-09-2025:generateContent?key={API_KEY}"
